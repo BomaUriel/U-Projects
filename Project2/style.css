@@ -1,0 +1,148 @@
+.body {
+    margin-top: 0px;
+    padding: px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    align-content: center;
+    
+}
+
+.top-container {
+    text-align: center;
+    background-color: rgb(146, 189, 185);
+    padding: 0%;
+
+}
+
+
+.image-container {
+    position: relative;
+    display: inline-block;
+}
+
+.background-img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.overlay-img {
+    position: absolute;
+    top: 20px;
+    left: 10%;
+    transform: translateX(-50%);
+    width: 150px;
+    height: auto;
+}
+
+
+
+
+
+
+h1 {
+    color: rgb(67, 130, 117);
+    font-size: 36px;
+}
+
+h2 {
+    color: rgb(87, 176, 158);
+    font-size: 28px;
+
+}
+
+p {
+    color: rgb(54, 54, 54);
+    font-size: 18px;
+    line-height: 1.6;
+}   
+
+
+.middle-container{
+    text-align: center;
+    align-items: center;
+    margin: 0px;
+    padding: 50px;
+    background-color: rgb(220, 240, 238);
+}
+
+.bottom-container {
+    background-color: rgb(220, 240, 238);
+    padding-right: 200px;
+    padding-left: 200px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+
+.bottom-text-1{
+    display: flex;
+    text-align: inherit;
+    margin: 0px;
+    padding: 30px;
+    font-size: 14px;
+}
+
+.bottom-text-2{
+    display: flex;
+    text-align: inherit;
+    margin: 0px;
+    padding: 20px;
+    font-size: 14px;
+}
+
+.cat-picture {
+    width: 250px;
+    height: auto;
+    margin-right: 20px;
+}
+
+.bottom-cloud {
+    width: 170px;
+    height: auto;
+    margin-right: 20px;
+}
+
+.Footer-Section {
+    background-color: rgb(220, 240, 238);
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+    
+}
+
+.custom-button {
+    background-color: rgb(77, 181, 160);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.footer{    
+    margin: 0px;
+    background-color: rgb(220, 240, 238);
+    padding-right: 200px;
+    padding-left: 200px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-size: 14px;
+}
+
+.footer-links {
+    text-align: center;
+    margin-left: auto;
+    padding-right: 200px;
+    padding-left: 200px;
+    display: flex;
+    gap: 25px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 20px;
+}
+
+
+
